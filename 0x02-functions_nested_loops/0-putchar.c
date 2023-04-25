@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-  *main - Entry Point 
+  *main - Entry Point
   *Description: 'prints the function printchar'
-  *Return: Always 0 
+  *Return: Always 0
   */
 int main(void)
 {
