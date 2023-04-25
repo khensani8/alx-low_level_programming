@@ -1,8 +1,10 @@
 #include "main.h"
 /**
-  *main- Entry Point
+  *_isalpha - Shows 1 if the input is a letter. Another case, shoes 0
   *Description: - checks for alphabetic character
-  *Return: Always 0.
+  *@c: The charcter in ASCII code
+  *
+  *Return: 1 letters. 0 for the rest
   */
 int _isalpha(int c)
 {
