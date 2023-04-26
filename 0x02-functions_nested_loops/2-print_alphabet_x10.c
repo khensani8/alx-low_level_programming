@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-  *main - Entry Point
-  *Description: 'Prints x10 the alphabet, in lowercase'
+  *print_alphabet_x10 - Prints x10 the alphabet, in lowercase'
+  *
   *Return: Always 0.
   */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	int i;
 	int j;
@@ -17,5 +17,4 @@ void print_alphabet(void)
 		}
 		_putchar('\n');
 	}
-	return (0);
 }
