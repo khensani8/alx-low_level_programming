@@ -3,7 +3,7 @@
 
 /**
   *struct list_s - singly link list
-  *@str: string - (malloced string)
+  *@str: string - (malloc'ed string)
   *@len: lenght of the string
   *@next: points to the next node
   *
